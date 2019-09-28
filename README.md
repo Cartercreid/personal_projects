@@ -10,7 +10,7 @@ Some of these projects may benefit current students, though I have removed all o
 
 If you are currently a student, and looking at this repositoy, please do the intelligent thing, and do not copy any code into your school projects as this may result in an honor code violation with your institution of education.
 
-Employer's looking at this material: I encourage you to check out the RNA_sequencing project, as I am most proud of that.
+Employer's looking at this material: I encourage you to check out the H1N1_flu_sequencing folder, as I am most proud of that.
 Thanks for showing interest in my work!
 
 Sincerely,
